@@ -6,11 +6,11 @@ Hello, my name is Mark Ghian Francis, and I am a UI/UX designer and Web develope
 
 [![website](./img/bx-globe.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/bxl-facebook.svg.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/bxl-facebook.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/bxl-instagram.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/bxl-instagram.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/bxl-linkedin%20(1).svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/bxl-linkedin%20(1).svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 #
