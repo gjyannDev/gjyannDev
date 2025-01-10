@@ -4,13 +4,13 @@
 
 Hello, my name is Mark Ghian Francis, and I am a UI/UX designer and Web developer who is currently studying on a Bachelor of Science in Information Technology. I'm motivated by the logic and art of producing smooth digital experiences, which combine effective programming with user-friendly design to realize concepts. Whether it's creating dynamic, responsive web applications or visually appealing user interfaces, my goal is to use creativity and innovation to address real-world problems.
 
-[![website](./img/bx-globe.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/bx-globe.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/bxl-facebook.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/bxl-facebook-circle.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/bxl-instagram.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/bxl-instagram.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/bxl-linkedin%20(1).svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/bxl-linkedin-square.svg](https://youtube.com/codestackr#gh-light-mode-only)
 &nbsp;&nbsp;
 
 #
