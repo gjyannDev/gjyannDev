@@ -1,6 +1,12 @@
 <h1 align="center">Mark Ghian M. Francis</h1>
 
----
+<p align="center">
+  Full Stack Developer &nbsp;|&nbsp; AI Agentic Developer
+  <br />
+  <a href="https://gjyanndev.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/gjyanndev">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:m.ghianf@gmail.com">Email</a>
+</p>
 
 <table>
   <tr>
@@ -12,13 +18,11 @@
 
 ## Skills
 
----
-
 | Category | Technologies |
 |---|---|
 | **Languages** | TypeScript, JavaScript, PHP, Python, SQL, HTML, CSS |
-| **Front-end** | Next.js, React, Vue, Tailwind CSS, Bootstrap, Shadcn UI, Framer, TanStack, Zustand, React Native |
-| **Back-end** | Laravel, FastAPI, Express.js, Node.js, Redis, RBAC, REST API |
-| **Databases** | MySQL, PostgreSQL, Firebase, Supabase, MongoDB |
-| **DevOps & Infra** | Docker, GitHub Actions, Expo, Vercel, Cloudflare, Prometheus, VPS |
-| **Tools & OS** | Git, Claude Code, Codex, MCP, Figma, Postman, Wordpress, Grafana k6, Bruno, Swagger |
+| **Front-end** | Next.js, React, React Native, Expo, Vue, Tailwind CSS, shadcn/ui, Framer Motion |
+| **Back-end** | Laravel, FastAPI, Node.js, Express.js, REST APIs, RBAC, Redis, LLM Integration, RAG |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Supabase |
+| **DevOps & Infra** | Docker, GitHub Actions, CI/CD, Vercel, Cloudflare, VPS |
+| **Tools & AI** | Git, GitHub, Claude Code, Codex, MCP, AI Agents, Langfuse, Deepgram, RevenueCat, Postman, Figma, k6 |
