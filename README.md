@@ -20,9 +20,9 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | TypeScript, JavaScript, PHP, Python, SQL, HTML, CSS |
-| **Front-end** | Next.js, React, React Native, Expo, Vue, Tailwind CSS, shadcn/ui, Framer Motion |
-| **Back-end** | Laravel, FastAPI, Node.js, Express.js, REST APIs, RBAC, Redis, LLM Integration, RAG |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Supabase |
-| **DevOps & Infra** | Docker, GitHub Actions, CI/CD, Vercel, Cloudflare, VPS |
-| **Tools & AI** | Git, GitHub, Claude Code, Codex, MCP, AI Agents, Langfuse, Deepgram, RevenueCat, Postman, Figma, k6 |
+| **Frontend** | TypeScript, JavaScript, Next.js, React, React Native, Expo, NativeWind, React Native Reusables, Vue, Tailwind CSS, SCSS, Styled Components, shadcn/ui, Framer Motion, Vite, Webpack, ESLint, Prettier |
+| **Backend** | Python, PHP, SQL, FastAPI, Laravel, Node.js, Express.js, REST APIs, JWT, Redis, Agenda |
+| **AI & LLM** | LLM Integration, RAG, AI Agents, MCP, Langfuse, Deepgram, Claude Code, Codex, Google AI Studio |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Supabase |
+| **Cloud & DevOps** | Docker, GitHub Actions, CI/CD, Vercel, Cloudflare, VPS |
+| **Tools** | WordPress, Payload CMS, Figma, Postman, Swagger, k6, Zeplin |
