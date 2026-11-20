@@ -1,7 +1,7 @@
 <h1 align="center">Mark Ghian M. Francis</h1>
 
 <p align="center">
-  Full Stack Developer &nbsp;|&nbsp; AI Agentic Developer
+  Full Stack Engineer &nbsp;|&nbsp; AI Agentic Developer
   <br />
   <a href="https://gjyanndev.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/gjyanndev">LinkedIn</a> &nbsp;·&nbsp;
