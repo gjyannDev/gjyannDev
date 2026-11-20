@@ -5,9 +5,7 @@
 <table>
   <tr>
     <td>
-      Software Engineer focused on systems design and scalable solutions across the full stack, with a goal of delivering highly performant and reliable applications.
-      <br><br>
-      I enjoy solving problems and implementing solutions, while continuously refining my skills and learning different ways to build software.
+      Full-stack engineer who enjoys the whole product lifecycle: designing intuitive UIs, building robust and scalable APIs, and writing clean, readable, well-tested code that holds up in production. I'm drawn to AI and SaaS, and I work best in fast-moving teams that value ownership.
     </td>
   </tr>
 </table>
